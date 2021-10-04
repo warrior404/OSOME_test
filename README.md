@@ -1,7 +1,7 @@
-## Тестовое задание на Product Analyst в компанию OSOME.
+## Test task on Product Analyst in OSOME company.
 
-**Подключитесь к базе и ответьте на вопросы:**
-1. Продажи магазина растут или падают?
-2. Как меняется средний чек?
-3. Какие товарные категории и подкатегории принесли больше всего выручки?
-4. Объясните динамику продаж в последние 3 месяца. Какие факторы сильнее всего повлияли на выручку?
+**Connect to the database and answer the questions:**
+1. Are the store's sales going up or down?
+2. How does the average check change?
+3. Which product categories and subcategories generates the most revenue?
+4. Explain the dynamics of sales in the last 3 months. What factors influenced the revenue the most?
